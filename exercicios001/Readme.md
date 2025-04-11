@@ -1,5 +1,8 @@
 # Desafios da plataforma DIO: 
+System.out.println(" OLÁ MUNDO :D ");
 Segue alguns códigos em que foi necessário realizar melhorias e correções para funcionar. 
+
+
 ## 1-Exercicio:
 Descrição
 Você está desenvolvendo um programa simples em Java para manter um registro de transações bancárias. Cada transação é armazenada em uma lista.
